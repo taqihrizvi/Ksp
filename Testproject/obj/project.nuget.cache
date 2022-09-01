@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HNp46vh9cedQnM30R305I4QPXxHeSpaCdnhbKv7tuNvcrERoIXi8dSPUu0PIkuqpKcHVMc/ylDBIe9ojCeK8Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilal.javeed\\source\\repos\\Testproject\\Testproject\\Testproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilal.javeed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\bilal.javeed\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
